@@ -1,4 +1,4 @@
-# Genetic Algorithm For C++
+# Genetic Algorithms For C++
 
 #Chromosome
 Holds binary data(but in std::string) and mutate,crossover methods
