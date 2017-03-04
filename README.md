@@ -18,11 +18,16 @@ static int func(Chromosome chrmsm)
 {
 	//biggest square
 	return (chrmsm.ToDecimal()*chrmsm.ToDecimal());// x^2
+	
 	//OR
+	
 	//return (chrmsm.ToDecimal()*chrmsm.ToDecimal()-15);// x^2-15
+	
 }
 
-
+#TO-DO List
+1-Create some documentation.
+2-Add some gui
 
 # Licence
 Copyright (c) 2017 Onur Bulut
